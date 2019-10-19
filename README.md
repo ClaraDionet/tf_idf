@@ -1,6 +1,6 @@
 ## Description
 
-This project compares two implementations of the [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) (Term Frequency Inverse Document Frequency) metric calculation: the first using Map-reduce written in python and the Second using Spark-python. We first explain what the TF-IDF metric is, and cover in detail how each implementation works. We also run experiments on how efficient each implementation is for different document sizes. 
+This project compares two implementations of the [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) (Term Frequency Inverse Document Frequency) metric calculation: the first using Map-reduce written in python and the second using Spark-python. We first explain what the TF-IDF metric is, and cover in detail how each implementation works. We also run experiments on how efficient each implementation is for different document sizes. 
 
 The full written report is found [here](https://github.com/raeray/tf_idf/blob/master/TF-IDF%20Analysis.pdf)
 
